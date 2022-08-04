@@ -1,3 +1,4 @@
+
 namespace HAHA {
 
     //% blockId="hehe" block="HEHE| a number %hoho"
